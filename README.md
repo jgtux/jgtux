@@ -17,7 +17,7 @@ I enjoy building efficient, secure, and maintainable software—often blending m
 
 - **Languages**: Python, Go, JavaScript, TypeScript, C/C++, Common Lisp, Clojure, Shell scripting
 - **Frameworks**: React, Node.js, Flask, Gin, ClojureScript
-- **Tools**: Git, Docker, AWS  
+- **Tools**: Git, Docker, AWS, Vim, Emacs 
 - **Operating Systems**: Linux, OpenBSD, FreeBSD  
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis  
 
