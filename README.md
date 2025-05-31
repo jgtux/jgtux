@@ -4,7 +4,8 @@ I'm a Data Science & AI student with hands-on experience across backend developm
 
 I've worked on real-world projects that span the stack:
 
-- Built production-ready APIs in Go, Node.js
+- Built production-ready APIs in Go
+- Participated in maintenance of APIs in Node.js
 - Developed a chatbot as part of a college subject using Python and PyMongo  
 - Created ClojureScript front-ends with a functional approach to UI  
 - Written systems utilities in C and shell scripts for Linux and BSD environments  
