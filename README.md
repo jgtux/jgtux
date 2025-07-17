@@ -6,7 +6,7 @@ I’m a Data Science & AI student with practical experience in backend developme
 
 ## Experience
 
-- Developed production-grade APIs in Go, including integrations like cinema listings (Extern API) and NFC-e receipt data capture.  
+- Developed production-grade APIs in Go, such as integrating an external API to list movies playing in shopping mall cinemas and building a module for capturing consumer receipt information (NFC-e). 
 - Maintained backend services in Node.js.  
 - Created language model-based verifiers using sentence-transformers (e.g., `all-mpnet-base-v2`).  
 - Built ClojureScript front-ends with a functional approach, including a UI for a university coursework project.  
